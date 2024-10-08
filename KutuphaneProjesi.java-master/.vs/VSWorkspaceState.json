@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\library\\mysql-connector-j-8.2.0\\src",
+    "\\library\\mysql-connector-j-8.2.0\\src\\build",
+    "\\library\\mysql-connector-j-8.2.0\\src\\build\\java",
+    "\\out\\production",
+    "\\out\\production\\KutuphaneProjesi",
+    "\\out\\production\\KutuphaneProjesi\\com",
+    "\\out\\production\\KutuphaneProjesi\\com\\intellij",
+    "\\out\\production\\KutuphaneProjesi\\com\\intellij\\uiDesigner",
+    "\\out\\production\\KutuphaneProjesi\\com\\intellij\\uiDesigner\\core",
+    "\\src",
+    "\\src\\DataBase"
+  ],
+  "SelectedNode": "\\src\\View\\Register.java",
+  "PreviewInSolutionExplorer": false
+}
